@@ -9,7 +9,7 @@
   "scripts": {
     "build": "tsc && npm run copy-migrations",
     "start": "node dist/app.js",
-    "copy-migrations": "xcopy src\\db\\migrate dist\\db\\migrate /E /I /Y",
+    "copy-migrations": "copyfiles -u 2 \"src/db/migrate/**/*\" dist/db/migrate",
     "seed": "node dist/db/seedAdmin.js",
     "dev": "nodemon --watch src --exec tsx src/app.ts",
     "migrate": "node dist/db/migrate.js"
@@ -33,6 +33,7 @@
     "@types/express": "^5.0.6",
     "@types/node": "^25.0.10",
     "@types/pg": "^8.16.0",
+    "copyfiles": "^2.4.1",
     "nodemon": "^3.1.11",
     "ts-node": "^10.9.2",
     "tsx": "^4.21.0",
