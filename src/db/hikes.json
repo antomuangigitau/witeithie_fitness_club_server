@@ -1,0 +1,1057 @@
+[
+  {
+    "title": "Mount Suswa Crater Hike",
+    "description": "Explore the unique volcanic crater of Mount Suswa with its lava caves and stunning caldera views. A moderate hike perfect for adventurers looking to experience Rift Valley geology up close.",
+    "date": "2026-01-03",
+    "time": "06:00 AM",
+    "location": "Mount Suswa National Park",
+    "distance": "8KM",
+    "difficulty": "intermediate",
+    "max_participants": 60,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770799737/mt_suswa_tcyfpm.avif",
+    "price": 2200,
+    "itinerary": [
+      {
+        "time": "06:00",
+        "activity": "Depart Nairobi",
+        "description": "Meet at Prestige Plaza, Ngong Road"
+      },
+      {
+        "time": "08:00",
+        "activity": "Arrive at Mount Suswa",
+        "description": "Briefing and start hike"
+      },
+      {
+        "time": "12:00",
+        "activity": "Lunch at crater rim",
+        "description": "Enjoy packed lunch with panoramic views"
+      },
+      {
+        "time": "14:00",
+        "activity": "Descend and explore caves",
+        "description": "Optional cave exploration with guides"
+      },
+      {
+        "time": "16:00",
+        "activity": "Return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Hiking boots",
+        "Light layered clothing",
+        "Hat",
+        "Sunglasses"
+      ],
+      "whatToCarry": [
+        "3L water",
+        "Energy snacks",
+        "Sunscreen SPF 50+",
+        "Headlamp for caves",
+        "Camera"
+      ],
+      "preparationTips": [
+        "Good fitness recommended",
+        "Breakfast before departure",
+        "Carry rain jacket just in case"
+      ]
+    }
+  },
+  {
+    "title": "Ngong Hills Ridge Trail",
+    "description": "Hike along the scenic Ngong Hills ridge with breathtaking views of Nairobi National Park and the Great Rift Valley. Perfect for intermediate hikers seeking a day adventure near the city.",
+    "date": "2026-01-10",
+    "time": "07:00 AM",
+    "location": "Ngong Hills, Kajiado County",
+    "distance": "14KM",
+    "difficulty": "intermediate",
+    "max_participants": 50,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770800630/ngong_hike_r6fgzq.avif",
+    "price": 1800,
+    "itinerary": [
+      {
+        "time": "07:00",
+        "activity": "Depart Nairobi",
+        "description": "Pickup from Yaya Centre"
+      },
+      {
+        "time": "08:30",
+        "activity": "Start hike from Kiserian side",
+        "description": "Begin ascent of first hill"
+      },
+      {
+        "time": "12:30",
+        "activity": "Lunch at highest point",
+        "description": "Picnic lunch with 360-degree views"
+      },
+      {
+        "time": "15:00",
+        "activity": "Descend to Kona Baridi",
+        "description": "End point at Kona Baridi gate"
+      },
+      {
+        "time": "16:30",
+        "activity": "Return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Sturdy hiking shoes",
+        "Light jacket",
+        "Cap",
+        "Comfortable pants"
+      ],
+      "whatToCarry": [
+        "2-3L water",
+        "Sandwiches/snacks",
+        "Sunscreen",
+        "Walking poles (optional)",
+        "Binoculars for bird watching"
+      ],
+      "preparationTips": [
+        "Cardio preparation helpful",
+        "Wind can be strong on ridges",
+        "Carry some cash for optional souvenirs"
+      ]
+    }
+  },
+  {
+    "title": "Mount Longonot Crater Rim Hike",
+    "description": "Challenge yourself with a hike up the iconic Mount Longonot volcano! Walk around the crater rim for breathtaking views of Lake Naivasha and the Great Rift Valley. Suitable for intermediate to advanced hikers.",
+    "date": "2026-01-17",
+    "time": "06:30 AM",
+    "location": "Mount Longonot National Park",
+    "distance": "13.5KM",
+    "difficulty": "beginner",
+    "max_participants": 70,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770801658/mt_longonot_syo2ac.avif",
+    "price": 2500,
+    "itinerary": [
+      {
+        "time": "06:30",
+        "activity": "Depart Nairobi",
+        "description": "Meet at designated pickup points"
+      },
+      {
+        "time": "08:30",
+        "activity": "Arrive at park gate",
+        "description": "Registration and briefing"
+      },
+      {
+        "time": "09:00",
+        "activity": "Start ascent",
+        "description": "Begin steep climb to crater rim"
+      },
+      {
+        "time": "12:00",
+        "activity": "Lunch at summit",
+        "description": "Enjoy packed lunch with spectacular views"
+      },
+      {
+        "time": "13:00",
+        "activity": "Crater rim circuit",
+        "description": "Optional 7.2km walk around crater rim"
+      },
+      {
+        "time": "15:00",
+        "activity": "Descend",
+        "description": "Return to base"
+      },
+      {
+        "time": "17:00",
+        "activity": "Return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Hiking boots with good grip",
+        "Moisture-wicking clothes",
+        "Hat",
+        "Light windbreaker"
+      ],
+      "whatToCarry": [
+        "3-4L water",
+        "High-energy snacks",
+        "Sunscreen SPF 50+",
+        "Camera",
+        "Walking poles (recommended)"
+      ],
+      "preparationTips": [
+        "Excellent fitness required",
+        "Acclimate to altitude beforehand",
+        "Eat light breakfast",
+        "Start hydrating day before"
+      ]
+    }
+  },
+  {
+    "title": "Elephant Hill Challenge",
+    "description": "Conquer the popular Elephant Hill in Nairobi National Park. A steep but rewarding hike with panoramic views of Nairobi skyline and the park's wildlife. Suitable for intermediate hikers.",
+    "date": "2026-01-24",
+    "time": "06:00 AM",
+    "location": "Nairobi National Park",
+    "distance": "10KM",
+    "difficulty": "advanced",
+    "max_participants": 40,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770802076/elephant_hill_txegds.avif",
+    "price": 3500,
+    "itinerary": [
+      {
+        "time": "06:00",
+        "activity": "Depart meeting point",
+        "description": "Pickup from CBD locations"
+      },
+      {
+        "time": "06:30",
+        "activity": "Enter Nairobi National Park",
+        "description": "Game drive en route to hike start"
+      },
+      {
+        "time": "07:30",
+        "activity": "Start Elephant Hill ascent",
+        "description": "Begin steep climb"
+      },
+      {
+        "time": "10:30",
+        "activity": "Reach summit",
+        "description": "Photo session and snacks"
+      },
+      {
+        "time": "12:00",
+        "activity": "Lunch at picnic site",
+        "description": "Packed lunch in the park"
+      },
+      {
+        "time": "14:00",
+        "activity": "Game drive exit",
+        "description": "Wildlife viewing on way out"
+      },
+      {
+        "time": "15:30",
+        "activity": "Return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Hiking boots",
+        "Neutral-colored clothing",
+        "Sun hat",
+        "Light layers"
+      ],
+      "whatToCarry": [
+        "2L water minimum",
+        "Snacks",
+        "Binoculars",
+        "Camera with zoom lens",
+        "Park entry fee included"
+      ],
+      "preparationTips": [
+        "Steep sections require good fitness",
+        "Early start to avoid heat",
+        "Follow guide instructions in wildlife area"
+      ]
+    }
+  },
+  {
+    "title": "Aberdare Range Day Hike",
+    "description": "Experience the magical Aberdare Mountains with their misty forests and waterfalls. A moderate hike through diverse ecosystems with potential wildlife sightings.",
+    "date": "2026-01-31",
+    "time": "05:00 AM",
+    "location": "Aberdare National Park",
+    "distance": "12KM",
+    "difficulty": "intermediate",
+    "max_participants": 30,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770802360/aberdares_osuygh.avif",
+    "price": 4200,
+    "itinerary": [
+      {
+        "time": "05:00",
+        "activity": "Early departure from Nairobi",
+        "description": "Meet at Prestige Plaza"
+      },
+      {
+        "time": "08:00",
+        "activity": "Arrive at Aberdare gate",
+        "description": "Briefing and start hike"
+      },
+      {
+        "time": "12:30",
+        "activity": "Lunch at scenic viewpoint",
+        "description": "Enjoy packed lunch amidst forest"
+      },
+      {
+        "time": "15:00",
+        "activity": "Visit waterfall",
+        "description": "Optional swim in natural pools"
+      },
+      {
+        "time": "17:00",
+        "activity": "Depart for Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Waterproof hiking boots",
+        "Warm layers",
+        "Rain jacket",
+        "Beanie/gloves for higher altitude"
+      ],
+      "whatToCarry": [
+        "2-3L water",
+        "High-energy food",
+        "Rain cover for backpack",
+        "Camera",
+        "Extra socks"
+      ],
+      "preparationTips": [
+        "Prepare for cold and wet conditions",
+        "Altitude ranges 2000-3000m",
+        "Waterproof all electronics"
+      ]
+    }
+  },
+  {
+    "title": "Karura Forest Nature Trail",
+    "description": "A relaxing hike through Nairobi's urban forest with waterfalls, caves, and diverse birdlife. Perfect for beginners and families looking for an easy nature escape.",
+    "date": "2026-02-07",
+    "time": "08:00 AM",
+    "location": "Karura Forest, Nairobi",
+    "distance": "8KM",
+    "difficulty": "beginner",
+    "max_participants": 80,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770802663/karura_dbac4v.avif",
+    "price": 1200,
+    "itinerary": [
+      {
+        "time": "08:00",
+        "activity": "Meet at Karura Forest Gate C",
+        "description": "Registration and grouping"
+      },
+      {
+        "time": "08:30",
+        "activity": "Start nature walk",
+        "description": "Guided tour through forest trails"
+      },
+      {
+        "time": "10:30",
+        "activity": "Visit waterfall and caves",
+        "description": "Photo stops and exploration"
+      },
+      {
+        "time": "12:00",
+        "activity": "Picnic lunch",
+        "description": "Group picnic at designated area"
+      },
+      {
+        "time": "13:30",
+        "activity": "Bird watching session",
+        "description": "Guided bird identification"
+      },
+      {
+        "time": "15:00",
+        "activity": "End of hike"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Comfortable walking shoes",
+        "Light clothing",
+        "Sun hat",
+        "Light rain jacket"
+      ],
+      "whatToCarry": [
+        "1-2L water",
+        "Snacks",
+        "Bird guide book (optional)",
+        "Camera",
+        "Picnic mat"
+      ],
+      "preparationTips": [
+        "Suitable for all fitness levels",
+        "Family-friendly activity",
+        "Forest entry fee included"
+      ]
+    }
+  },
+  {
+    "title": "Hell's Gate Gorge Adventure",
+    "description": "Hike through the stunning Hell's Gate National Park with its dramatic cliffs, geothermal activity, and the famous gorge walk. A unique hiking experience in the Rift Valley.",
+    "date": "2026-02-14",
+    "time": "06:00 AM",
+    "location": "Hell's Gate National Park",
+    "distance": "10KM",
+    "difficulty": "intermediate",
+    "max_participants": 60,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770804156/hells_gate_dsmmiu.avif",
+    "price": 2800,
+    "itinerary": [
+      {
+        "time": "06:00",
+        "activity": "Depart Nairobi",
+        "description": "Pickup from Westlands"
+      },
+      {
+        "time": "08:30",
+        "activity": "Arrive at Hell's Gate",
+        "description": "Cycling through park to gorge (bikes provided)"
+      },
+      {
+        "time": "10:00",
+        "activity": "Start gorge hike",
+        "description": "Guided walk through narrow gorge"
+      },
+      {
+        "time": "13:00",
+        "activity": "Lunch at Fischer's Tower",
+        "description": "Picnic with view of volcanic plug"
+      },
+      {
+        "time": "15:00",
+        "activity": "Optional hot springs visit",
+        "description": "Relax at Olkaria Geothermal Spa"
+      },
+      {
+        "time": "17:00",
+        "activity": "Return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Sturdy closed shoes",
+        "Quick-dry clothing",
+        "Hat",
+        "Swimwear for hot springs"
+      ],
+      "whatToCarry": [
+        "3L water",
+        "Energy bars",
+        "Sunscreen",
+        "Waterproof camera",
+        "Small backpack"
+      ],
+      "preparationTips": [
+        "Cycling included in package",
+        "Gorge can be muddy after rain",
+        "Carry plastic bag for wet clothes"
+      ]
+    }
+  },
+  {
+    "title": "Mount Kenya Sirimon Route (Day Hike)",
+    "description": "Experience the majesty of Mount Kenya with a day hike on the Sirimon route. Hike through montane forest and bamboo zones to Old Moses Camp. High altitude challenge for fit hikers.",
+    "event_datetime": "2026-02-20T22:00:00Z",
+    "location": "Mount Kenya National Park",
+    "distance": "18KM",
+    "difficulty": "advanced",
+    "max_participants": 25,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770804695/Mt_Kenya_Dash_-first_hike_unow0j.avif",
+    "price": 5500,
+    "itinerary": [
+      {
+        "time": "04:00",
+        "activity": "Depart Nairobi",
+        "description": "Very early start from city"
+      },
+      {
+        "time": "08:00",
+        "activity": "Arrive at Sirimon Gate",
+        "description": "Registration and acclimatization"
+      },
+      {
+        "time": "09:00",
+        "activity": "Start hike",
+        "description": "Ascend through forest to moorland"
+      },
+      {
+        "time": "13:00",
+        "activity": "Lunch at Old Moses Camp",
+        "description": "3300m altitude - packed lunch"
+      },
+      {
+        "time": "14:00",
+        "activity": "Descend",
+        "description": "Return journey"
+      },
+      {
+        "time": "18:00",
+        "activity": "Return to vehicles",
+        "description": "Drive back to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Proper hiking boots",
+        "Warm layers (thermal base)",
+        "Waterproof jacket & pants",
+        "Woolen hat & gloves"
+      ],
+      "whatToCarry": [
+        "3-4L water",
+        "High-calorie snacks",
+        "Altitude sickness medication (optional)",
+        "Headlamp",
+        "Trekking poles"
+      ],
+      "preparationTips": [
+        "Excellent fitness required",
+        "Altitude acclimatization recommended",
+        "Hydrate well days before",
+        "Warm clothing essential"
+      ]
+    }
+  },
+  {
+    "title": "Oloolua Nature Trail",
+    "description": "A peaceful hike through the Oloolua Forest in Karen, featuring a waterfall, cave, and nature trail. Easy to moderate difficulty suitable for most hikers.",
+    "event_datetime": "2026-02-28T05:00:00Z",
+    "location": "Oloolua Forest, Karen",
+    "distance": "6KM",
+    "difficulty": "beginner",
+    "max_participants": 50,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770/oloolua-forest-hike.jpg",
+    "price": 1500,
+    "itinerary": [
+      {
+        "time": "08:00",
+        "activity": "Meet at forest gate",
+        "description": "Registration and briefing"
+      },
+      {
+        "time": "08:30",
+        "activity": "Start nature walk",
+        "description": "Guided trail through forest"
+      },
+      {
+        "time": "10:30",
+        "activity": "Visit waterfall and cave",
+        "description": "Explore natural attractions"
+      },
+      {
+        "time": "12:00",
+        "activity": "Picnic lunch",
+        "description": "Group lunch at designated area"
+      },
+      {
+        "time": "13:30",
+        "activity": "Bird watching",
+        "description": "Identify forest bird species"
+      },
+      {
+        "time": "15:00",
+        "activity": "End of hike"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Comfortable walking shoes",
+        "Light clothing",
+        "Hat",
+        "Light jacket"
+      ],
+      "whatToCarry": [
+        "1-2L water",
+        "Snacks",
+        "Camera",
+        "Binoculars (optional)",
+        "Insect repellent"
+      ],
+      "preparationTips": [
+        "Easy trail suitable for families",
+        "Can be muddy after rain",
+        "Carry small backpack"
+      ]
+    }
+  },
+  {
+    "title": "Chyulu Hills Green Hills Hike",
+    "description": "Hike through the stunning Chyulu Hills, known as the 'Green Hills of Africa' with volcanic cones, lava tubes, and incredible views of Kilimanjaro on clear days.",
+    "event_datetime": "2026-03-07T05:00Z",
+    "location": "Chyulu Hills National Park",
+    "distance": "15KM",
+    "difficulty": "intermediate",
+    "max_participants": 35,
+    "image_url": "https://res.cloudinary.com/dex9sdigi/image/upload/v1771241450/ololua_xqj8ks.avif",
+    "price": 3800,
+    "itinerary": [
+      {
+        "time": "05:00",
+        "activity": "Depart Nairobi",
+        "description": "Early morning departure"
+      },
+      {
+        "time": "08:30",
+        "activity": "Arrive at Chyulu Hills",
+        "description": "Briefing and start hike"
+      },
+      {
+        "time": "12:30",
+        "activity": "Lunch with Kilimanjaro view",
+        "description": "Picnic at scenic viewpoint"
+      },
+      {
+        "time": "14:00",
+        "activity": "Explore lava tubes",
+        "description": "Guided exploration of volcanic features"
+      },
+      {
+        "time": "16:00",
+        "activity": "Return journey",
+        "description": "Drive back to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Hiking boots",
+        "Light hiking clothes",
+        "Wide-brimmed hat",
+        "Light jacket"
+      ],
+      "whatToCarry": [
+        "3L water",
+        "Energy snacks",
+        "Sunscreen SPF 50+",
+        "Camera with good zoom",
+        "Small flashlight for lava tubes"
+      ],
+      "preparationTips": [
+        "Good fitness required",
+        "Early start for clear views",
+        "Carry warm layer for evening"
+      ]
+    }
+  },
+  {
+    "title": "Menengai Crater Expedition",
+    "description": "Explore one of the largest calderas in the world - Menengai Crater. Hike along the rim with breathtaking views of Nakuru town and Lake Nakuru. Moderate difficulty with some steep sections.",
+    "date": "2026-03-14",
+    "time": "06:00 AM",
+    "location": "Menengai Crater, Nakuru",
+    "distance": "11KM",
+    "difficulty": "intermediate",
+    "maxParticipants": 55,
+    "currentParticipants": 0,
+    "spotsRemaining": 55,
+    "imageUrl": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770/menengai-crater-hike.jpg",
+    "price": 2700,
+    "itinerary": [
+      {
+        "time": "06:00",
+        "activity": "Depart Nairobi",
+        "description": "Pickup from CBD"
+      },
+      {
+        "time": "08:30",
+        "activity": "Arrive at Menengai",
+        "description": "Briefing and start crater rim hike"
+      },
+      {
+        "time": "12:00",
+        "activity": "Lunch on crater rim",
+        "description": "Packed lunch with panoramic views"
+      },
+      {
+        "time": "13:30",
+        "activity": "Descend into crater floor",
+        "description": "Optional hike to geothermal area"
+      },
+      {
+        "time": "15:30",
+        "activity": "Return to vehicles",
+        "description": "Drive back to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Sturdy hiking shoes",
+        "Layered clothing",
+        "Hat",
+        "Sunglasses"
+      ],
+      "whatToCarry": [
+        "3L water",
+        "High-energy snacks",
+        "Sunscreen",
+        "Camera",
+        "Light windbreaker"
+      ],
+      "preparationTips": [
+        "Windy conditions on rim",
+        "Steep sections require care",
+        "Good fitness recommended"
+      ]
+    }
+  },
+  {
+    "title": "Mount Longonot Crater Rim Hike",
+    "description": "Challenge yourself with a hike up the iconic Mount Longonot volcano! Walk around the crater rim for breathtaking views of Lake Naivasha and the Great Rift Valley. Suitable for intermediate hikers.",
+    "date": "2026-03-21",
+    "time": "07:00 AM",
+    "location": "Mount Longonot National Park",
+    "distance": "7.2KM",
+    "difficulty": "intermediate",
+    "maxParticipants": 70,
+    "currentParticipants": 0,
+    "spotsRemaining": 70,
+    "imageUrl": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770/longonot-crater-hike2.jpg",
+    "price": 2500,
+    "itinerary": [
+      {
+        "time": "07:00",
+        "activity": "Depart Nairobi",
+        "description": "Meet at designated pickup points"
+      },
+      {
+        "time": "09:00",
+        "activity": "Pickup from designated points",
+        "description": "Additional pickups en route"
+      },
+      {
+        "time": "12:00",
+        "activity": "Lunch at summit",
+        "description": "Enjoy packed lunch with spectacular views"
+      },
+      {
+        "time": "15:00",
+        "activity": "Return to Nairobi",
+        "description": "Estimated arrival back"
+      }
+    ],
+    "guide": {
+      "whatToWear": ["Hiking boots", "Moisture-wicking clothes", "Hat"],
+      "whatToCarry": ["2-3L water", "Energy snacks", "Sunscreen", "Camera"],
+      "preparationTips": [
+        "Good fitness required",
+        "Acclimate to altitude",
+        "Eat light breakfast"
+      ]
+    }
+  },
+  {
+    "title": "Kereita Forest Zipline & Hike",
+    "description": "Combine hiking with adventure in Kereita Forest! Hike through indigenous forest followed by an exciting zipline experience. Suitable for beginners and adventure seekers.",
+    "date": "2026-03-28",
+    "time": "07:30 AM",
+    "location": "Kereita Forest, Kikuyu Escarpment",
+    "distance": "5KM",
+    "difficulty": "beginner",
+    "maxParticipants": 45,
+    "currentParticipants": 0,
+    "spotsRemaining": 45,
+    "imageUrl": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770/kereita-forest-hike.jpg",
+    "price": 3200,
+    "itinerary": [
+      {
+        "time": "07:30",
+        "activity": "Depart Nairobi",
+        "description": "Pickup from Yaya Centre"
+      },
+      {
+        "time": "09:00",
+        "activity": "Arrive at Kereita Forest",
+        "description": "Briefing and start nature walk"
+      },
+      {
+        "time": "11:30",
+        "activity": "Zipline adventure",
+        "description": "2.5km zipline over forest canopy"
+      },
+      {
+        "time": "13:00",
+        "activity": "Lunch at forest camp",
+        "description": "Buffet lunch included"
+      },
+      {
+        "time": "14:30",
+        "activity": "Optional activities",
+        "description": "Archery or biking (extra cost)"
+      },
+      {
+        "time": "16:00",
+        "activity": "Return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Closed shoes (no sandals)",
+        "Comfortable activewear",
+        "Light jacket",
+        "Hat"
+      ],
+      "whatToCarry": [
+        "1-2L water",
+        "Snacks",
+        "Camera (with strap)",
+        "Small backpack",
+        "Change of clothes (optional)"
+      ],
+      "preparationTips": [
+        "Zipline included in package",
+        "Minimum age 10 years",
+        "Weight limit 120kg for zipline"
+      ]
+    }
+  },
+  {
+    "title": "Lake Elementaita Hike & Bird Watching",
+    "description": "A gentle hike around the stunning Lake Elementaita, a UNESCO World Heritage Site. Perfect for bird watchers and nature lovers with over 400 bird species recorded.",
+    "date": "2026-04-04",
+    "time": "06:30 AM",
+    "location": "Lake Elementaita, Gilgil",
+    "distance": "8KM",
+    "difficulty": "beginner",
+    "maxParticipants": 40,
+    "currentParticipants": 0,
+    "spotsRemaining": 40,
+    "imageUrl": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770/elementaita-hike.jpg",
+    "price": 2300,
+    "itinerary": [
+      {
+        "time": "06:30",
+        "activity": "Depart Nairobi",
+        "description": "Pickup from Westlands"
+      },
+      {
+        "time": "09:00",
+        "activity": "Arrive at Lake Elementaita",
+        "description": "Bird watching start with guide"
+      },
+      {
+        "time": "11:00",
+        "activity": "Lakeside hike",
+        "description": "Walk along lake shore"
+      },
+      {
+        "time": "13:00",
+        "activity": "Lunch with lake view",
+        "description": "Packed lunch at scenic spot"
+      },
+      {
+        "time": "14:30",
+        "activity": "Visit hot springs",
+        "description": "Optional swim in natural hot springs"
+      },
+      {
+        "time": "16:00",
+        "activity": "Return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Comfortable walking shoes",
+        "Neutral-colored clothing",
+        "Hat",
+        "Swimwear for hot springs"
+      ],
+      "whatToCarry": [
+        "2L water",
+        "Snacks",
+        "Binoculars",
+        "Bird identification book",
+        "Camera with zoom lens"
+      ],
+      "preparationTips": [
+        "Great for photography",
+        "Early morning best for bird activity",
+        "Carry towel for hot springs"
+      ]
+    }
+  },
+  {
+    "title": "Mount Kinangop Peak Challenge",
+    "description": "Summit the second highest peak in the Aberdare Range. A challenging hike through bamboo forests and moorlands to the 3906m summit. For experienced hikers only.",
+    "date": "2026-04-11",
+    "time": "04:00 AM",
+    "location": "Aberdare National Park",
+    "distance": "22KM",
+    "difficulty": "advanced",
+    "maxParticipants": 20,
+    "currentParticipants": 0,
+    "spotsRemaining": 20,
+    "imageUrl": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770/kinangop-peak-hike.jpg",
+    "price": 4800,
+    "itinerary": [
+      {
+        "time": "04:00",
+        "activity": "Depart Nairobi",
+        "description": "Very early start"
+      },
+      {
+        "time": "07:00",
+        "activity": "Arrive at trailhead",
+        "description": "Briefing and final preparations"
+      },
+      {
+        "time": "07:30",
+        "activity": "Start ascent",
+        "description": "Steep climb through forest"
+      },
+      {
+        "time": "12:00",
+        "activity": "Lunch near summit",
+        "description": "High altitude lunch break"
+      },
+      {
+        "time": "13:00",
+        "activity": "Summit attempt",
+        "description": "Final push to 3906m peak"
+      },
+      {
+        "time": "15:00",
+        "activity": "Begin descent",
+        "description": "Return journey"
+      },
+      {
+        "time": "19:00",
+        "activity": "Return to vehicles",
+        "description": "Late return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Mountaineering boots",
+        "Thermal layers",
+        "Waterproof outer shell",
+        "Wool hat & gloves",
+        "Gaiters"
+      ],
+      "whatToCarry": [
+        "4L water",
+        "High-energy food",
+        "Headlamp with extra batteries",
+        "Trekking poles",
+        "First aid kit"
+      ],
+      "preparationTips": [
+        "Extreme fitness required",
+        "Altitude experience recommended",
+        "Cold weather preparation essential",
+        "Early start mandatory"
+      ]
+    }
+  },
+  {
+    "title": "Nairobi Arboretum Nature Walk",
+    "description": "A relaxing Sunday nature walk through the Nairobi Arboretum, home to over 350 species of trees and abundant birdlife. Perfect for families and beginners.",
+    "date": "2026-04-18",
+    "time": "09:00 AM",
+    "location": "Nairobi Arboretum",
+    "distance": "4KM",
+    "difficulty": "beginner",
+    "maxParticipants": 100,
+    "currentParticipants": 0,
+    "spotsRemaining": 100,
+    "imageUrl": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770/arboretum-walk.jpg",
+    "price": 800,
+    "itinerary": [
+      {
+        "time": "09:00",
+        "activity": "Meet at main gate",
+        "description": "Registration and grouping"
+      },
+      {
+        "time": "09:30",
+        "activity": "Guided tree tour",
+        "description": "Learn about indigenous trees"
+      },
+      {
+        "time": "11:00",
+        "activity": "Bird watching session",
+        "description": "Identify common city birds"
+      },
+      {
+        "time": "12:30",
+        "activity": "Picnic lunch",
+        "description": "Bring your own picnic"
+      },
+      {
+        "time": "14:00",
+        "activity": "Free exploration",
+        "description": "Self-guided walk"
+      },
+      {
+        "time": "15:00",
+        "activity": "Event ends"
+      }
+    ],
+    "guide": {
+      "whatToWear": ["Comfortable walking shoes", "Casual clothing", "Sun hat"],
+      "whatToCarry": [
+        "Water bottle",
+        "Picnic lunch",
+        "Camera",
+        "Bird book (optional)",
+        "Picnic mat"
+      ],
+      "preparationTips": [
+        "Perfect for families",
+        "Wheelchair accessible paths",
+        "No special fitness required"
+      ]
+    }
+  },
+  {
+    "title": "Kijabe Hills Forest Hike",
+    "description": "Hike through the scenic Kijabe Hills with stunning views of the Rift Valley. Trail passes through indigenous forest and offers spectacular photography opportunities.",
+    "date": "2026-04-25",
+    "time": "06:00 AM",
+    "location": "Kijabe Hills, Rift Valley",
+    "distance": "12KM",
+    "difficulty": "intermediate",
+    "maxParticipants": 50,
+    "currentParticipants": 0,
+    "spotsRemaining": 50,
+    "imageUrl": "https://res.cloudinary.com/dex9sdigi/image/upload/v1770/kijabe-hills-hike.jpg",
+    "price": 2000,
+    "itinerary": [
+      {
+        "time": "06:00",
+        "activity": "Depart Nairobi",
+        "description": "Pickup from CBD"
+      },
+      {
+        "time": "07:30",
+        "activity": "Arrive at Kijabe",
+        "description": "Briefing and start hike"
+      },
+      {
+        "time": "10:30",
+        "activity": "Scenic viewpoint stop",
+        "description": "Photos of Rift Valley"
+      },
+      {
+        "time": "12:30",
+        "activity": "Lunch in forest clearing",
+        "description": "Packed lunch"
+      },
+      {
+        "time": "14:00",
+        "activity": "Descend",
+        "description": "Return to starting point"
+      },
+      {
+        "time": "16:00",
+        "activity": "Return to Nairobi"
+      }
+    ],
+    "guide": {
+      "whatToWear": [
+        "Hiking shoes",
+        "Light hiking clothes",
+        "Hat",
+        "Light jacket"
+      ],
+      "whatToCarry": [
+        "2-3L water",
+        "Energy snacks",
+        "Sunscreen",
+        "Camera",
+        "Small backpack"
+      ],
+      "preparationTips": [
+        "Good fitness recommended",
+        "Some steep sections",
+        "Early for best views"
+      ]
+    }
+  }
+]
