@@ -9,7 +9,7 @@
   "scripts": {
     "build": "tsc && npm run copy-migrations",
     "start": "node dist/app.js",
-    "copy-migrations": "copyfiles -u 2 \"src/db/migrate/**/*\" dist/db/migrate",
+    "copy-migrations": "cp -r src/db/migrate dist/db/migrate",
     "seed": "node dist/db/seedAdmin.js",
     "dev": "nodemon --watch src --exec tsx src/app.ts",
     "migrate": "node dist/db/migrate.js"
