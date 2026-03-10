@@ -6,7 +6,7 @@ import crypto from "crypto";
 const SESSION_TIMEOUT_MINUTES = process.env.SESSION_TIMEOUT_MINUTES
   ? parseInt(process.env.SESSION_TIMEOUT_MINUTES)
   : 5;
-// Session length in hours (absolute max lifetime)
+
 const SESSION_MAX_HOURS = process.env.SESSION_MAX_HOURS
   ? parseInt(process.env.SESSION_MAX_HOURS)
   : 24;
@@ -37,7 +37,6 @@ export const adminLogin = async (req: Request, res: Response) => {
       [admin.id, sessionId, expiresAt],
     );
 
-    // Clean up old sessions for this admin (keep only 5 most recent)
     await pool.query(
       `DELETE FROM admin_sessions 
              WHERE admin_id = $1 
@@ -50,12 +49,11 @@ export const adminLogin = async (req: Request, res: Response) => {
       [admin.id],
     );
 
-    // Set HTTP-only cookie
     res.cookie("admin_session", sessionId, {
-      httpOnly: true, // Not accessible via JavaScript
-      secure: process.env.NODE_ENV === "production", // HTTPS only in production
-      sameSite: "lax", // CSRF protection
-      maxAge: SESSION_MAX_HOURS * 60 * 60 * 1000, // Cookie expiry
+      httpOnly: true,
+      secure: process.env.NODE_ENV === "production",
+      sameSite: "none",
+      maxAge: SESSION_MAX_HOURS * 60 * 60 * 1000,
       path: "/",
     });
     res.status(200).json({
@@ -65,7 +63,7 @@ export const adminLogin = async (req: Request, res: Response) => {
         email: admin.email,
       },
       sessionId,
-      sessionTimeout: SESSION_MAX_HOURS * 60, // Convert hours to minutes
+      sessionTimeout: SESSION_MAX_HOURS * 60,
     });
   } catch (err) {
     console.error(err);
@@ -127,7 +125,6 @@ export const getSession = async (req: Request, res: Response) => {
       return res.status(401).json({ error: "Session timed out" });
     }
 
-    // Success response
     res.status(200).json({
       authenticated: true,
       admin: {
